@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "「怒りをくれよ」",
+  "base_artist": "GLIM SPANKY",
+  "createdAt": "2025-12-10T10:55:19.203830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "怒りをくれよ",
+      "artist": "GLIM SPANKY",
+      "has_synced": true,
+      "path": "select/01_怒りをくれよ_GLIM_SPANKY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "怒りをくれよ",
+      "artist": "GLIM SPANKY",
+      "has_synced": true,
+      "path": "select/02_怒りをくれよ_GLIM_SPANKY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "怒りをくれよ - Ikari Wo Kureyo",
+      "artist": "Glim Spanky",
+      "has_synced": true,
+      "path": "select/03_怒りをくれよ_-_Ikari_Wo_Kureyo_Glim_Spanky.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "怒りをくれよ",
+      "artist": "GLIM SPANKY",
+      "has_synced": true,
+      "path": "select/04_怒りをくれよ_GLIM_SPANKY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怒りをくれよ",
+      "artist": "GLIM SPANKY",
+      "has_synced": false,
+      "path": "select/pl_01_怒りをくれよ_GLIM_SPANKY.txt"
+    }
+  ]
+}
